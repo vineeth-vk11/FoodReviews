@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "198352204829",
+    "firebase_url": "https://bphcfoodreviewapp.firebaseio.com",
+    "project_id": "bphcfoodreviewapp",
+    "storage_bucket": "bphcfoodreviewapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198352204829:android:1cbf12eeddd8574f",
+        "android_client_info": {
+          "package_name": "com.example.vineeth.bphcfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198352204829-bre1vj7fgniip9orpc4hr9pu5kaqq4ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ENK9y2nZK3443-P-yHY-38fwHreoDKo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
